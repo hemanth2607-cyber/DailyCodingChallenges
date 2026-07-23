@@ -7,7 +7,7 @@ public class DoubleReverse {
         if (num%10==0 && num>0){
             System.out.print(false);}
         else{System.out.print(true);}
-
+        sc.close();
     }
     
 }
